@@ -1,2 +1,1 @@
-# summer_task
-just study c++
+# OS_project
