@@ -1,0 +1,1 @@
+gcc backup_v2.c -o backup_v2 && ./backup_v2 /Users/kirill/Desktop/OS_project/backup/source /Users/kirill/Desktop/OS_project/backup/destination
